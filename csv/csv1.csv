@@ -1,0 +1,304 @@
+ID;Name;Condition;State;Price
+1100001;Hotel 1;Econom+10 nights+BB;request;66000RUB
+1100001;Hotel 1;Standart Room+10 nights+BB;request;21000RUB
+1100001;Hotel 1;Standart Room+7 nights+BB;request;108000RUB
+1100002;Hotel 2;Econom+7 nights+BB;quote;135000RUB
+1100002;Hotel 2;King Room+10 nights+BB;quote;111000RUB
+1100002;Hotel 2;King Room+10 nights+AI;quote;140000RUB
+1100002;Hotel 2;Econom+7 nights+AI;quote;127000RUB
+1100002;Hotel 2;Standart Room+10 nights+BB;quote;23000RUB
+1100003;Hotel 3;Standart Room+10 nights+BB;quote;161000RUB
+1100004;Hotel 4;Standart Room+7 nights+BB;quote;32000RUB
+1100005;Hotel 5;King Room+7 nights+BB;quote;76000RUB
+1100005;Hotel 5;Standart Room+10 nights+BB;quote;121000RUB
+1100005;Hotel 5;Standart Room+10 nights+AI;quote;28000RUB
+1100005;Hotel 5;Standart Room+10 nights+BB;quote;47000RUB
+1100005;Hotel 5;Standart Room+7 nights+AI;quote;76000RUB
+1100006;Hotel 6;Econom+10 nights+BB;request;37000RUB
+1100007;Hotel 7;King Room+7 nights+BB;request;96000RUB
+1100007;Hotel 7;Standart Room+7 nights+BB;request;156000RUB
+1100007;Hotel 7;Standart Room+7 nights+AI;request;197000RUB
+1100008;Hotel 8;Econom+10 nights+BB;request;49000RUB
+1100008;Hotel 8;Standart Room+10 nights+AI;request;60000RUB
+1100008;Hotel 8;Standart Room+7 nights+BB;request;66000RUB
+1100009;Hotel 9;Econom+7 nights+AI;quote;139000RUB
+1100009;Hotel 9;King Room+7 nights+BB;quote;70000RUB
+1100009;Hotel 9;Econom+10 nights+AI;quote;174000RUB
+1100009;Hotel 9;Econom+10 nights+AI;quote;132000RUB
+1100009;Hotel 9;King Room+10 nights+AI;quote;54000RUB
+1100010;Hotel 10;Econom+7 nights+BB;request;53000RUB
+1100010;Hotel 10;Standart Room+7 nights+AI;request;197000RUB
+1100010;Hotel 10;Standart Room+10 nights+BB;request;98000RUB
+1100010;Hotel 10;Standart Room+10 nights+BB;request;196000RUB
+1100011;Hotel 11;Standart Room+10 nights+BB;quote;134000RUB
+1100011;Hotel 11;King Room+10 nights+AI;quote;18000RUB
+1100011;Hotel 11;Standart Room+7 nights+BB;quote;96000RUB
+1100012;Hotel 12;King Room+7 nights+AI;quote;154000RUB
+1100012;Hotel 12;King Room+7 nights+AI;quote;55000RUB
+1100013;Hotel 13;King Room+10 nights+AI;quote;161000RUB
+1100014;Hotel 14;Standart Room+7 nights+AI;quote;192000RUB
+1100014;Hotel 14;King Room+7 nights+BB;quote;68000RUB
+1100015;Hotel 15;Standart Room+10 nights+BB;quote;80000RUB
+1100015;Hotel 15;Econom+10 nights+BB;quote;101000RUB
+1100015;Hotel 15;King Room+10 nights+BB;quote;181000RUB
+1100015;Hotel 15;King Room+10 nights+AI;quote;47000RUB
+1100015;Hotel 15;Standart Room+10 nights+BB;quote;33000RUB
+1100016;Hotel 16;King Room+7 nights+AI;request;110000RUB
+1100016;Hotel 16;King Room+7 nights+AI;request;138000RUB
+1100016;Hotel 16;Standart Room+7 nights+AI;request;181000RUB
+1100017;Hotel 17;Econom+10 nights+BB;request;84000RUB
+1100017;Hotel 17;Econom+7 nights+AI;request;130000RUB
+1100017;Hotel 17;Standart Room+10 nights+AI;request;170000RUB
+1100017;Hotel 17;Standart Room+10 nights+BB;request;52000RUB
+1100018;Hotel 18;Standart Room+10 nights+BB;request;62000RUB
+1100018;Hotel 18;Standart Room+10 nights+AI;request;156000RUB
+1100018;Hotel 18;King Room+7 nights+BB;request;103000RUB
+1100018;Hotel 18;King Room+10 nights+AI;request;151000RUB
+1100019;Hotel 19;Standart Room+7 nights+BB;request;79000RUB
+1100019;Hotel 19;Econom+7 nights+AI;request;39000RUB
+1100019;Hotel 19;Standart Room+10 nights+AI;request;183000RUB
+1100019;Hotel 19;King Room+7 nights+BB;request;62000RUB
+1100019;Hotel 19;Econom+10 nights+BB;request;177000RUB
+1100020;Hotel 20;Econom+7 nights+AI;request;22000RUB
+1100020;Hotel 20;Standart Room+10 nights+BB;request;78000RUB
+1100020;Hotel 20;Standart Room+10 nights+BB;request;86000RUB
+1100020;Hotel 20;King Room+7 nights+AI;request;140000RUB
+1100020;Hotel 20;Econom+10 nights+BB;request;116000RUB
+1100021;Hotel 21;King Room+10 nights+BB;quote;70000RUB
+1100022;Hotel 22;King Room+10 nights+BB;quote;142000RUB
+1100022;Hotel 22;Standart Room+10 nights+AI;quote;103000RUB
+1100022;Hotel 22;Econom+7 nights+BB;quote;18000RUB
+1100022;Hotel 22;King Room+7 nights+AI;quote;143000RUB
+1100023;Hotel 23;King Room+7 nights+BB;quote;113000RUB
+1100023;Hotel 23;Standart Room+10 nights+BB;quote;165000RUB
+1100024;Hotel 24;Econom+7 nights+BB;request;65000RUB
+1100025;Hotel 25;Econom+7 nights+BB;quote;36000RUB
+1100025;Hotel 25;Econom+10 nights+BB;quote;177000RUB
+1100025;Hotel 25;Econom+7 nights+BB;quote;67000RUB
+1100025;Hotel 25;Standart Room+10 nights+AI;quote;149000RUB
+1100025;Hotel 25;Standart Room+10 nights+AI;quote;105000RUB
+1100026;Hotel 26;Econom+7 nights+AI;request;54000RUB
+1100026;Hotel 26;King Room+10 nights+BB;request;92000RUB
+1100027;Hotel 27;King Room+7 nights+BB;quote;106000RUB
+1100027;Hotel 27;Standart Room+7 nights+AI;quote;117000RUB
+1100028;Hotel 28;King Room+10 nights+BB;request;198000RUB
+1100028;Hotel 28;Econom+10 nights+AI;request;66000RUB
+1100028;Hotel 28;Standart Room+7 nights+BB;request;100000RUB
+1100028;Hotel 28;Econom+7 nights+BB;request;35000RUB
+1100028;Hotel 28;Econom+10 nights+AI;request;19000RUB
+1100029;Hotel 29;King Room+7 nights+BB;quote;196000RUB
+1100030;Hotel 30;Econom+10 nights+BB;quote;104000RUB
+1100030;Hotel 30;Standart Room+7 nights+AI;quote;58000RUB
+1100030;Hotel 30;King Room+7 nights+BB;quote;19000RUB
+1100031;Hotel 31;Econom+10 nights+AI;request;149000RUB
+1100031;Hotel 31;King Room+7 nights+BB;request;157000RUB
+1100032;Hotel 32;Standart Room+7 nights+BB;request;146000RUB
+1100032;Hotel 32;Econom+7 nights+BB;request;54000RUB
+1100032;Hotel 32;Econom+10 nights+BB;request;38000RUB
+1100032;Hotel 32;Econom+7 nights+BB;request;25000RUB
+1100032;Hotel 32;King Room+10 nights+BB;request;134000RUB
+1100033;Hotel 33;King Room+10 nights+BB;quote;197000RUB
+1100033;Hotel 33;Standart Room+7 nights+AI;quote;104000RUB
+1100034;Hotel 34;King Room+10 nights+AI;quote;39000RUB
+1100035;Hotel 35;King Room+10 nights+AI;quote;141000RUB
+1100036;Hotel 36;Standart Room+10 nights+AI;request;170000RUB
+1100036;Hotel 36;King Room+10 nights+AI;request;33000RUB
+1100036;Hotel 36;Econom+7 nights+AI;request;116000RUB
+1100036;Hotel 36;Econom+7 nights+BB;request;123000RUB
+1100036;Hotel 36;King Room+7 nights+BB;request;70000RUB
+1100037;Hotel 37;Standart Room+7 nights+BB;quote;77000RUB
+1100037;Hotel 37;King Room+10 nights+BB;quote;13000RUB
+1100037;Hotel 37;King Room+10 nights+BB;quote;51000RUB
+1100038;Hotel 38;Standart Room+10 nights+AI;request;135000RUB
+1100038;Hotel 38;Econom+7 nights+AI;request;150000RUB
+1100038;Hotel 38;Standart Room+10 nights+AI;request;48000RUB
+1100038;Hotel 38;King Room+10 nights+AI;request;134000RUB
+1100038;Hotel 38;Econom+10 nights+AI;request;66000RUB
+1100039;Hotel 39;Standart Room+10 nights+BB;quote;71000RUB
+1100039;Hotel 39;King Room+10 nights+AI;quote;91000RUB
+1100039;Hotel 39;Standart Room+10 nights+BB;quote;46000RUB
+1100040;Hotel 40;Econom+7 nights+AI;request;39000RUB
+1100041;Hotel 41;King Room+10 nights+BB;request;108000RUB
+1100041;Hotel 41;Econom+7 nights+BB;request;153000RUB
+1100041;Hotel 41;Econom+10 nights+BB;request;143000RUB
+1100041;Hotel 41;King Room+10 nights+AI;request;124000RUB
+1100042;Hotel 42;King Room+10 nights+BB;request;77000RUB
+1100042;Hotel 42;Econom+10 nights+BB;request;52000RUB
+1100043;Hotel 43;Standart Room+7 nights+AI;request;14000RUB
+1100043;Hotel 43;Econom+7 nights+BB;request;19000RUB
+1100043;Hotel 43;Econom+10 nights+BB;request;150000RUB
+1100043;Hotel 43;King Room+7 nights+AI;request;112000RUB
+1100043;Hotel 43;Standart Room+10 nights+AI;request;122000RUB
+1100044;Hotel 44;King Room+7 nights+BB;quote;89000RUB
+1100044;Hotel 44;Econom+10 nights+AI;quote;200000RUB
+1100044;Hotel 44;Econom+10 nights+BB;quote;146000RUB
+1100044;Hotel 44;Econom+7 nights+AI;quote;193000RUB
+1100044;Hotel 44;Econom+10 nights+AI;quote;44000RUB
+1100045;Hotel 45;Econom+7 nights+AI;quote;148000RUB
+1100045;Hotel 45;King Room+7 nights+BB;quote;196000RUB
+1100045;Hotel 45;Standart Room+10 nights+AI;quote;180000RUB
+1100046;Hotel 46;Econom+10 nights+BB;request;188000RUB
+1100046;Hotel 46;Econom+7 nights+AI;request;119000RUB
+1100046;Hotel 46;King Room+10 nights+AI;request;153000RUB
+1100046;Hotel 46;Standart Room+7 nights+BB;request;23000RUB
+1100047;Hotel 47;King Room+10 nights+AI;quote;100000RUB
+1100047;Hotel 47;Standart Room+10 nights+AI;quote;32000RUB
+1100047;Hotel 47;Econom+7 nights+BB;quote;49000RUB
+1100047;Hotel 47;Standart Room+7 nights+AI;quote;137000RUB
+1100048;Hotel 48;King Room+7 nights+BB;quote;15000RUB
+1100048;Hotel 48;Standart Room+7 nights+AI;quote;192000RUB
+1100048;Hotel 48;Standart Room+7 nights+BB;quote;144000RUB
+1100048;Hotel 48;King Room+10 nights+AI;quote;25000RUB
+1100049;Hotel 49;Econom+7 nights+BB;request;24000RUB
+1100049;Hotel 49;King Room+7 nights+AI;request;98000RUB
+1100049;Hotel 49;Standart Room+10 nights+BB;request;20000RUB
+1100049;Hotel 49;King Room+10 nights+AI;request;17000RUB
+1100050;Hotel 50;Econom+10 nights+BB;request;65000RUB
+1100050;Hotel 50;Standart Room+10 nights+BB;request;116000RUB
+1100051;Hotel 51;Econom+10 nights+BB;request;46000RUB
+1100051;Hotel 51;Standart Room+10 nights+BB;request;139000RUB
+1100051;Hotel 51;Standart Room+7 nights+AI;request;62000RUB
+1100052;Hotel 52;King Room+10 nights+BB;quote;195000RUB
+1100053;Hotel 53;Standart Room+10 nights+AI;request;115000RUB
+1100054;Hotel 54;King Room+7 nights+AI;request;92000RUB
+1100054;Hotel 54;Standart Room+7 nights+AI;request;127000RUB
+1100054;Hotel 54;King Room+10 nights+AI;request;21000RUB
+1100054;Hotel 54;Standart Room+10 nights+AI;request;184000RUB
+1100055;Hotel 55;King Room+10 nights+BB;request;105000RUB
+1100056;Hotel 56;Standart Room+10 nights+AI;request;130000RUB
+1100056;Hotel 56;Standart Room+7 nights+AI;request;165000RUB
+1100057;Hotel 57;Econom+10 nights+AI;quote;47000RUB
+1100057;Hotel 57;Econom+10 nights+AI;quote;127000RUB
+1100057;Hotel 57;Econom+7 nights+AI;quote;176000RUB
+1100058;Hotel 58;King Room+7 nights+AI;quote;134000RUB
+1100058;Hotel 58;Econom+10 nights+BB;quote;125000RUB
+1100059;Hotel 59;Standart Room+10 nights+AI;quote;94000RUB
+1100059;Hotel 59;King Room+7 nights+BB;quote;117000RUB
+1100059;Hotel 59;King Room+10 nights+AI;quote;190000RUB
+1100060;Hotel 60;Econom+7 nights+AI;quote;141000RUB
+1100061;Hotel 61;King Room+10 nights+BB;request;169000RUB
+1100061;Hotel 61;Econom+10 nights+AI;request;169000RUB
+1100061;Hotel 61;Econom+10 nights+AI;request;122000RUB
+1100062;Hotel 62;Econom+10 nights+BB;quote;21000RUB
+1100063;Hotel 63;King Room+10 nights+AI;request;149000RUB
+1100063;Hotel 63;Econom+10 nights+BB;request;139000RUB
+1100064;Hotel 64;Econom+7 nights+BB;request;112000RUB
+1100064;Hotel 64;Standart Room+7 nights+AI;request;167000RUB
+1100064;Hotel 64;Standart Room+10 nights+BB;request;77000RUB
+1100064;Hotel 64;King Room+7 nights+AI;request;101000RUB
+1100065;Hotel 65;King Room+7 nights+AI;quote;184000RUB
+1100066;Hotel 66;Standart Room+7 nights+BB;request;26000RUB
+1100067;Hotel 67;King Room+7 nights+AI;request;46000RUB
+1100068;Hotel 68;Standart Room+7 nights+BB;request;138000RUB
+1100068;Hotel 68;Standart Room+10 nights+BB;request;112000RUB
+1100068;Hotel 68;King Room+7 nights+AI;request;77000RUB
+1100068;Hotel 68;Econom+7 nights+BB;request;131000RUB
+1100068;Hotel 68;Econom+7 nights+AI;request;42000RUB
+1100069;Hotel 69;Econom+10 nights+AI;quote;159000RUB
+1100069;Hotel 69;Econom+10 nights+BB;quote;95000RUB
+1100070;Hotel 70;King Room+10 nights+BB;request;130000RUB
+1100070;Hotel 70;Standart Room+7 nights+AI;request;32000RUB
+1100070;Hotel 70;King Room+10 nights+AI;request;62000RUB
+1100070;Hotel 70;Standart Room+7 nights+BB;request;73000RUB
+1100071;Hotel 71;King Room+10 nights+AI;quote;101000RUB
+1100071;Hotel 71;King Room+10 nights+AI;quote;40000RUB
+1100072;Hotel 72;King Room+7 nights+BB;quote;180000RUB
+1100072;Hotel 72;Econom+7 nights+BB;quote;85000RUB
+1100072;Hotel 72;Econom+7 nights+AI;quote;193000RUB
+1100072;Hotel 72;Standart Room+7 nights+BB;quote;95000RUB
+1100073;Hotel 73;King Room+7 nights+BB;quote;130000RUB
+1100073;Hotel 73;Econom+7 nights+AI;quote;19000RUB
+1100073;Hotel 73;Econom+7 nights+AI;quote;51000RUB
+1100073;Hotel 73;King Room+7 nights+AI;quote;105000RUB
+1100074;Hotel 74;Econom+10 nights+BB;quote;194000RUB
+1100074;Hotel 74;Standart Room+7 nights+BB;quote;195000RUB
+1100074;Hotel 74;Standart Room+7 nights+BB;quote;26000RUB
+1100074;Hotel 74;Standart Room+10 nights+BB;quote;113000RUB
+1100075;Hotel 75;Standart Room+7 nights+AI;request;199000RUB
+1100075;Hotel 75;Econom+10 nights+BB;request;96000RUB
+1100075;Hotel 75;Econom+10 nights+BB;request;37000RUB
+1100076;Hotel 76;Standart Room+7 nights+BB;request;156000RUB
+1100076;Hotel 76;Econom+10 nights+BB;request;155000RUB
+1100076;Hotel 76;Econom+10 nights+BB;request;61000RUB
+1100076;Hotel 76;Standart Room+10 nights+AI;request;56000RUB
+1100076;Hotel 76;Standart Room+10 nights+AI;request;146000RUB
+1100077;Hotel 77;Standart Room+7 nights+AI;quote;78000RUB
+1100077;Hotel 77;King Room+7 nights+BB;quote;74000RUB
+1100077;Hotel 77;King Room+10 nights+BB;quote;33000RUB
+1100078;Hotel 78;Standart Room+10 nights+BB;request;58000RUB
+1100079;Hotel 79;Standart Room+7 nights+AI;request;176000RUB
+1100079;Hotel 79;King Room+10 nights+BB;request;194000RUB
+1100079;Hotel 79;Standart Room+7 nights+BB;request;83000RUB
+1100079;Hotel 79;King Room+10 nights+AI;request;34000RUB
+1100079;Hotel 79;King Room+7 nights+BB;request;170000RUB
+1100080;Hotel 80;Econom+10 nights+AI;request;165000RUB
+1100080;Hotel 80;Standart Room+10 nights+AI;request;184000RUB
+1100080;Hotel 80;Econom+10 nights+AI;request;14000RUB
+1100080;Hotel 80;Standart Room+10 nights+BB;request;129000RUB
+1100081;Hotel 81;King Room+10 nights+BB;quote;50000RUB
+1100081;Hotel 81;Standart Room+7 nights+BB;quote;27000RUB
+1100081;Hotel 81;Standart Room+7 nights+BB;quote;10000RUB
+1100081;Hotel 81;Econom+7 nights+BB;quote;20000RUB
+1100081;Hotel 81;Standart Room+7 nights+BB;quote;92000RUB
+1100082;Hotel 82;Standart Room+10 nights+AI;quote;122000RUB
+1100083;Hotel 83;Econom+7 nights+AI;quote;128000RUB
+1100083;Hotel 83;Econom+7 nights+BB;quote;117000RUB
+1100084;Hotel 84;Standart Room+10 nights+BB;request;198000RUB
+1100084;Hotel 84;Econom+10 nights+BB;request;63000RUB
+1100084;Hotel 84;Standart Room+10 nights+AI;request;27000RUB
+1100085;Hotel 85;Standart Room+10 nights+AI;request;48000RUB
+1100085;Hotel 85;King Room+7 nights+BB;request;167000RUB
+1100085;Hotel 85;Econom+10 nights+BB;request;192000RUB
+1100085;Hotel 85;Standart Room+10 nights+BB;request;131000RUB
+1100085;Hotel 85;Standart Room+10 nights+AI;request;163000RUB
+1100086;Hotel 86;Econom+7 nights+AI;quote;190000RUB
+1100086;Hotel 86;King Room+7 nights+AI;quote;170000RUB
+1100087;Hotel 87;Econom+7 nights+BB;request;168000RUB
+1100087;Hotel 87;Econom+7 nights+AI;request;42000RUB
+1100087;Hotel 87;Econom+10 nights+BB;request;60000RUB
+1100087;Hotel 87;King Room+7 nights+BB;request;138000RUB
+1100087;Hotel 87;Econom+10 nights+BB;request;83000RUB
+1100088;Hotel 88;Econom+7 nights+BB;request;111000RUB
+1100088;Hotel 88;King Room+7 nights+BB;request;55000RUB
+1100088;Hotel 88;King Room+7 nights+BB;request;177000RUB
+1100088;Hotel 88;Standart Room+7 nights+AI;request;90000RUB
+1100088;Hotel 88;Standart Room+10 nights+BB;request;106000RUB
+1100089;Hotel 89;Econom+7 nights+AI;request;169000RUB
+1100090;Hotel 90;Econom+10 nights+AI;quote;74000RUB
+1100090;Hotel 90;Econom+7 nights+BB;quote;94000RUB
+1100090;Hotel 90;Econom+10 nights+BB;quote;68000RUB
+1100090;Hotel 90;Standart Room+7 nights+AI;quote;104000RUB
+1100090;Hotel 90;King Room+10 nights+AI;quote;92000RUB
+1100091;Hotel 91;Standart Room+7 nights+BB;request;50000RUB
+1100091;Hotel 91;Standart Room+7 nights+AI;request;191000RUB
+1100091;Hotel 91;King Room+7 nights+AI;request;175000RUB
+1100092;Hotel 92;Standart Room+7 nights+BB;request;117000RUB
+1100092;Hotel 92;Econom+10 nights+AI;request;72000RUB
+1100093;Hotel 93;Standart Room+7 nights+BB;request;135000RUB
+1100094;Hotel 94;King Room+7 nights+BB;quote;70000RUB
+1100094;Hotel 94;Standart Room+10 nights+AI;quote;89000RUB
+1100094;Hotel 94;Econom+7 nights+AI;quote;52000RUB
+1100094;Hotel 94;King Room+10 nights+AI;quote;13000RUB
+1100095;Hotel 95;King Room+7 nights+AI;request;113000RUB
+1100095;Hotel 95;Standart Room+7 nights+AI;request;13000RUB
+1100095;Hotel 95;Econom+10 nights+AI;request;38000RUB
+1100095;Hotel 95;King Room+10 nights+AI;request;113000RUB
+1100095;Hotel 95;King Room+10 nights+AI;request;126000RUB
+1100096;Hotel 96;King Room+10 nights+AI;request;101000RUB
+1100097;Hotel 97;King Room+7 nights+AI;request;23000RUB
+1100097;Hotel 97;Econom+7 nights+BB;request;171000RUB
+1100097;Hotel 97;King Room+7 nights+BB;request;97000RUB
+1100097;Hotel 97;Standart Room+10 nights+BB;request;142000RUB
+1100098;Hotel 98;Standart Room+10 nights+AI;quote;26000RUB
+1100098;Hotel 98;Econom+10 nights+AI;quote;59000RUB
+1100098;Hotel 98;Econom+10 nights+BB;quote;15000RUB
+1100098;Hotel 98;Econom+7 nights+AI;quote;141000RUB
+1100099;Hotel 99;Econom+10 nights+BB;request;18000RUB
+1100099;Hotel 99;King Room+7 nights+AI;request;33000RUB
+1100099;Hotel 99;King Room+10 nights+BB;request;150000RUB
+1100099;Hotel 99;Standart Room+10 nights+BB;request;65000RUB
+1100099;Hotel 99;Standart Room+10 nights+AI;request;24000RUB
+1100100;Hotel 100;King Room+7 nights+BB;quote;120000RUB
+1100100;Hotel 100;Econom+10 nights+AI;quote;117000RUB
+1100100;Hotel 100;Econom+7 nights+BB;quote;181000RUB
+1100100;Hotel 100;Econom+10 nights+AI;quote;150000RUB
